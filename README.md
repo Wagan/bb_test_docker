@@ -1,2 +1,3 @@
 # bb_test_docker
-Rep for testing Docker
+Repository for testing Docker
+Bulletin Board from Docker's Samples App
